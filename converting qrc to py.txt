@@ -1,0 +1,2 @@
+command to convert .qrc to .py
+pyside2-rcc {.qrc file} -o {_rc.py file}

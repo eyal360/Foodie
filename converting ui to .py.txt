@@ -1,0 +1,2 @@
+command to convert .ui to .py
+pyuic5 -x <file.ui> -o <file.py>
